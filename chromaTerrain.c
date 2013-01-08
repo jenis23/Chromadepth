@@ -1,3 +1,6 @@
+// Source code distribution under http://creativecommons.org/licenses/by-nc/3.0/
+
+
 #define GL_GLEXT_PROTOTYPES
 
 #include <stdio.h>
