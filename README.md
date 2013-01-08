@@ -6,9 +6,9 @@ Website for more information: http://jenis23.blogspot.com/
 
 Project Authors:
   
-  Jenis Modi (MS CS, WSU Vancouver)
+  <b>Jenis Modi (MS CS, WSU Vancouver)</b>
   
-  Dr. Wayne Cochran (WSU Vancouver)
+  <b>Dr. Wayne Cochran (WSU Vancouver)</b>
 
 The project creates St helens chromadepth image as defined in Project document. It contains 1 "C" files, 1 vertex shader file and 1 fragment shader file. 
 
